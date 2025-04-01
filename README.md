@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hello world! 👋
 
-<!--
-**Androbhi/Androbhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Glad to see you here! 🤩
 
-Here are some ideas to get you started:
+### ⚡ My Coding Mantra:
+*"If it works in the first build, I probably didn't challenge myself enough"*  
+*(Spoiler: It never works in the first build)* 🛠️💥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑🚀 My Tech Journey
+A 9-year Android veteran who:
+- Speaks fluent Kotlin before morning coffee ☕
+- Turns Jetpack Compose into digital playgrounds 🎨
+- Believes good architecture is like South Indian filter coffee - strong foundation with perfect layers ☕
+- Gets weirdly excited about reducing APK size 🎉
+
+---
+
+### 🔥 Current Obsessions
+```kotlin
+val passions = listOf(
+    "Making Multiplatform my middle name", 
+    "Chasing that 60fps like it's the last vada pav",
+    "Converting 'it works' to 'it works beautifully'",
+    "Battling legacy code like a Bengaluru traffic warrior"
+)
+```
+
+### 🛠️ My Toolbox
+
+Core Weapons
+<img src="https://img.shields.io/badge/Kotlin-Multiplatform-%237F52FF?style=flat&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Android-Studio-%233DDC84?style=flat&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/Jetpack_Compose-%234285F4?style=flat&logo=jetpack-compose&logoColor=white" />
