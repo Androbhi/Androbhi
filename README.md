@@ -35,16 +35,6 @@ Core Weapons
 
 ---
 
-### Architecture Arsenal
-<img src="https://img.shields.io/badge/MVVM-Clean-%23009796?style=flat&logo=archlinux&logoColor=white" /> <img src="https://img.shields.io/badge/Dagger-Hilt-%23FF4081?style=flat&logo=dagger" />
-
----
-
-### Side Quests
-<img src="https://img.shields.io/badge/Firebase-%23FFCA28?style=flat&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Compose_Multiplatform-%234285F4?style=flat" />
-
----
-
 ### 🤝 Let's Connect Like...
 
-<table> <tr> <td align="center"> <a href="https://github.com/Androbhi"> <img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="55"/> </a> <br/> <sub><b>Professional Me</b></sub> </td> <td align="center"> <a href="mailto:abhishek.81519@gmail.com"> <img src="https://img.icons8.com/3d-fluency/94/gmail.png" width="55"/> </a> <br/> <sub><b>Coffee Chat?</b></sub> </td> </tr> </table>
+<table> <tr> <td align="center"> <a href="https://www.linkedin.com/in/abhishek-s-3a203612a"> <img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="55"/> </a> <br/> <sub><b>Professional Me</b></sub> </td> <td align="center"> <a href="mailto:abhishek.81519@gmail.com"> <img src="https://img.icons8.com/3d-fluency/94/gmail.png" width="55"/> </a> <br/> <sub><b>Coffee Chat?</b></sub> </td> </tr> </table>
